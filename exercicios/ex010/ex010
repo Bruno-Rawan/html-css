@@ -1,0 +1,18 @@
+# Usando links interno
+
+Quando usar um link interno não precisa digitar a URL toda.
+
+CTRL + ESPAÇO pra carregar as páginas internas.
+
+
+rel="next" ( Avança )
+rel="prev" ( Retorna )
+<ul> # Criar uma lista </ul>
+
+<li> # Ítens da lista </li>
+
+type=" tipo de aplicação que vai rodar "
+
+ 
+
+
